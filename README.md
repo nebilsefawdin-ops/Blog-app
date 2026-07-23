@@ -73,13 +73,12 @@ The purpose of this project is to practice building a React application using co
 
 ## 🔮 Future Improvements
 Some possible improvements for the future include:
--Add a search feature
--Add post categories
--Add user authentication
--Add persistent bookmarks
--Add post editing and deleting
--Improve accessibility
--Add more responsive design features
+- Add a search feature
+- Add post categories
+- Add user authentication
+- Add post editing and deleting
+- Improve accessibility
+- Add more responsive design features
 ## 👨‍💻 Author 
 created by **Nebil sefawdin**
 
