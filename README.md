@@ -25,7 +25,7 @@ PostNest is a simple and modern blog application built with React. Users can exp
 
 ## 📂 Project Structure
 
-`text
+```text
 blog-app/
 └── my-app/
     ├── src/
@@ -49,6 +49,7 @@ blog-app/
     ├── public/
     ├── package.json
     └── vite.config.js
+```
 ## 📦 Installation
 
 ### 1. Clone the repository:
