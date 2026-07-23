@@ -15,7 +15,6 @@ function BlogDetails() {
       try {
         const savedPosts = JSON.parse(localStorage.getItem("posts")) || [];
 
-        // Only check posts created by the user
         const localPost = savedPosts.find(
           (post) => post.id === Number(id) && post.isLocal,
         );
