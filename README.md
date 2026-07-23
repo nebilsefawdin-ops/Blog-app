@@ -80,5 +80,5 @@ Some possible improvements for the future include:
 - Improve accessibility
 - Add more responsive design features
 ## 👨‍💻 Author 
-created by **Nebil Sefawdin**
+Created by **Nebil Sefawdin**
 
